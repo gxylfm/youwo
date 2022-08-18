@@ -2,12 +2,12 @@
 玉林新闻,http://39.135.32.28:6610/PLTV/77777777/224/3221225838/index.m3u8?servicetype=1
 广西卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221226211/index.m3u8?fmt=ts2hls#http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000294203.m3u8#http ://106.225.230.119/tlivectfree-cdn.ysp.cctv.cn/ysp/2000294203.m3u8#http://36.152.71.75/tlivectfree-cdn.ysp.cctv.cn/ysp/2000294203.m3u8
 广西综艺,http://111.59.63.32:9901/tsfile/live/1004_1.m3u8
-动物星球1,vjms://122.155.180.8:8500:3502/live/cid=3
-动物星球2,P2p://ns2.hellotvvod.com:9906/a882e17acbfa4d7c97b347673fc1be4e.ts
-动物星球3,http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
-动物星球4,http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
-动物星球5,http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
-动物星球5,https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
+动物星球1,http://220.134.196.147:9566/http/116.50.42.18:8088/hls/70/812/ch37.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
+动物星球2,http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
+动物星球3,http://59.125.101.187:8536/http/192.168.77.24:8088/hls/70/812/ch37.m3u8?
+动物星球4,http://58.247.68.5:61985/hlsok/76011b82/index.m3u8
+动物星球5,https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b2500000.m3u8
+动物星球6,https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
 CCTV1综合,http://111.12.102.68:6610/PLTV/77777777/224/3221225654/index.m3u8?
 CCTV2财经,http://111.12.102.68:6610/PLTV/77777777/224/3221225657/index.m3u8?
 CCT3综艺,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8
