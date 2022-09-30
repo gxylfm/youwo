@@ -1,5 +1,5 @@
 {
-    "spider":"https://raw.githubusercontents.com/gxylfm/youwo/master/panglong.jar",
+    "spider":"https://raw.githubusercontents.com/gxylfm/youwo/master/panglong.jar;md5;0e705bb970b09245b190d01f3a5ee792",
     "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnRzLmNvbS9neHlsZm0veW91d28vbWFzdGVyL3poaWJvLnR4dA"]}]}],
     "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
   sites:[
