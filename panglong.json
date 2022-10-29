@@ -1,5 +1,5 @@
 {"spider":"./jar/vob.jar;md5;48c4cbca73b33274fea2d156603a6b0b",
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9qc2QuY2RuLnp6a28uY24vZ2gvZ3h5bGZtL3lvdXdvQG1hc3Rlci96aGliby50eHQ="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://jsd.cdn.zzko.cn/gh/gxylfm/youwo@master/zhibo.txt"]}]}],
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "rules":[{"host":"*","rule":["iesdouyin.com/aweme","video_id="]},
 {"host":"*","rule":["huoshan.com","/item/video/"]},
