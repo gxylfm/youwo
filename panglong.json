@@ -27,7 +27,7 @@
 {"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/json/alitoken.json"},
 {"key":"Zxzj","name":"在线","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"push_agent","name":"PushAgent","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/json/alitoken.json"}],
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9qc2QuY2RuLnp6a28uY24vZ2gvZ3h5bGZtL3lvdXdvQG1hc3Rlci96aGliby50eHQ=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby9neHlsZm0veW91d28vbWFzdGVyL3poaWJvLnR4dA=="]}]}],
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
  "parses":[{"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
