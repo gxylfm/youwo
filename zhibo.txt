@@ -420,5 +420,5 @@ CCTV-精品记录,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/
 黑龙江卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225690/index.m3u8
 
 
-庞龙11月19日更新,#genre#
+庞龙11月27日更新_2758,#genre#
 一生所爱,https://upos-hz-mirrorakam.akamaized.net/upgcxcode/20/58/394955820/394955820-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1668796559&gen=playurlv2&os=akam&oi=2525511320&trid=5467993a5baa4941bc986b66dc3031e8u&mid=0&platform=pc&upsig=0a32f074c6c68d7c497ed6066b4c0f44&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1668796559~hmac=ae91e478330dbc2a89eaa20dcae57ea27bd3983a95bcb763e45a3f0c6e16e9f6&bvc=vod&nettype=0&orderid=0,1&buvid=&build=0&agrr=1&bw=52880&logo=80000000
