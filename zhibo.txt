@@ -131,13 +131,13 @@ CCTV-精品记录,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/
 CCTV-精品记录,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/1.m3u8
 金鹰纪实,http://111.12.102.68:6610/PLTV/77777777/224/3221225699/index.m3u8?
 鳳凰资讯,http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
-湖南卫视高清,http://111.12.102.68:6610/PLTV/77777777/224/3221225692/index.m3u8?
-浙江卫视高清,http://223.110.243.173/PLTV/3/224/3221227215/index.m3u8
-江苏卫视高清,http://111.12.102.68:6610/PLTV/77777777/224/3221225636/index.m3u8?
-东方卫视高清,http://111.12.102.68:6610/PLTV/77777777/224/3221225682/index.m3u8?
-安徽卫视高清,http://111.12.102.68:6610/PLTV/77777777/224/3221225671/index.m3u8?
-安徽卫视,http://111.40.196.25/PLTV/88888888/224/3221225551/index.m3u8
-安徽卫视,http://39.134.19.248:6610/yinhe/2/ch00000090990000001346/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+湖南卫视,http://111.40.196.28/PLTV/88888888/224/3221225519/index.m3u8
+湖南卫视,http://39.134.65.166/PLTV/88888888/224/3221225506/index.m3u8
+湖南卫视,http://39.134.65.181/PLTV/88888888/224/3221225506/index.m3u8
+湖南卫视,http://39.134.65.208/PLTV/88888888/224/3221225506/index.m3u8
+湖南卫视,http://39.134.66.110/PLTV/88888888/224/3221225506/index.m3u8
+湖南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
+湖南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
 浙江卫视,http://111.40.196.25/PLTV/88888888/224/3221225510/index.m3u8
 浙江卫视,http://111.40.196.25/PLTV/88888888/224/3221225523/index.m3u8
 浙江卫视,http://39.134.19.248:6610/yinhe/2/ch00000090990000001345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -148,13 +148,11 @@ CCTV-精品记录,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/
 浙江卫视,http://39.136.48.26:8089/PLTV/88888888/224/3221225585/index.m3u8
 浙江卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225744/index.m3u8
 浙江卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
-湖南卫视,http://111.40.196.28/PLTV/88888888/224/3221225519/index.m3u8
-湖南卫视,http://39.134.65.166/PLTV/88888888/224/3221225506/index.m3u8
-湖南卫视,http://39.134.65.181/PLTV/88888888/224/3221225506/index.m3u8
-湖南卫视,http://39.134.65.208/PLTV/88888888/224/3221225506/index.m3u8
-湖南卫视,http://39.134.66.110/PLTV/88888888/224/3221225506/index.m3u8
-湖南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
-湖南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
+江苏卫视高清,http://111.12.102.68:6610/PLTV/77777777/224/3221225636/index.m3u8?
+东方卫视高清,http://111.12.102.68:6610/PLTV/77777777/224/3221225682/index.m3u8?
+安徽卫视高清,http://111.12.102.68:6610/PLTV/77777777/224/3221225671/index.m3u8?
+安徽卫视,http://111.40.196.25/PLTV/88888888/224/3221225551/index.m3u8
+安徽卫视,http://39.134.19.248:6610/yinhe/2/ch00000090990000001346/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 
 💚庞龙电台,#genre#
@@ -176,7 +174,13 @@ CCTV-精品记录,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/
 💜庞龙轮播,#genre#
 80后脱口秀,http://121.51.52.16/tx.hls.huya.com/src/1423787862-1423787862-6115122303731761152-2847699180-10057-A-0-1.m3u8#http://txtest-xp2p.p2p.huya.com/src/1423787862-1423787862-6115122303731761152-2847699180-10057-A-0-1.xs
 神探狄仁杰,http://txtest-xp2p.p2p.huya.com/src/1423787855-1423787855-6115122273666990080-2847699166-10057-A-0-1.xs
-周星驰电影,http://112.74.200.9:88/tv000000/m3u8.php?/migu/623338112 
+李子柒,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
+永劫无间官方,http://tc-tct.douyucdn2.cn/dyliveflv1a/9662891rlaeIAP3A_2000.flv?wsAuth=07d3125e1ec93068330e14be22a09454&token=cpn-androidmpro-0-9662891-7de7dc707e1a51dddb241f8ecad4f36806d04b45752cbbd8&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+清风,https://pull-flv-f1.douyincdn.com/third/stream-112076654463419051.flv
+周杰伦音乐轮播,http://txtest-xp2p.p2p.huya.com/src/2369489358-2369489358-7030957237289786162-4739102172-10057-A-1637022333-1.xs
+杀破狼,https://upos-hz-mirrorakam.akamaized.net/upgcxcode/05/20/271232005/271232005-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1670082810&gen=playurlv2&os=akam&oi=2525511320&trid=6f5588a8d23c43f7a692bb474c7c567eu&mid=0&platform=pc&upsig=cc2d4cd933e8a5bcfae00cfb236731bc&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1670082810~hmac=c2eafa3a30fd8114c8b3bebc7b7012cddf289e3ce6c5ed4323e0de0eb7dccdce&bvc=vod&nettype=0&orderid=0,1&buvid=&build=0&agrr=0&bw=53239&logo=80000000
+动物世界,http://txtest-xp2p.p2p.huya.com/src/src/1199589619721-1199589619721-5556588757806743552-2399179362898-10057-A-0-1.xs
+
 
 
 💙轮播动画,#genre#
@@ -772,5 +776,7 @@ CCTV-精品记录,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/
 龙宫里的奇异动物,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3528163c6b7d4a48b09b24027351ccf7/1200.m3u8
 
 
-庞龙11月29日更新_2758,#genre#
-一生所爱,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3528163c6b7d4a48b09b24027351ccf7/1200.m3u8
+庞龙12月3日更新_2758,#genre#
+凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8#http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8#https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8#http://[2409:8087:2004:10::2786:474b]/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8?icpid=4&RTS=1639880648&from=1&hms_devid=221&vqe=3#http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8#http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8#,http://anren.live/HK/AQtR.m3u8#http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8#http://125.210.152.21:9120/live/FHZW.m3u8#http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+
+
