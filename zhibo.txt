@@ -778,7 +778,8 @@ no1号2https://live.douyin.com/92627679182
 龙宫里的奇异动物,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3528163c6b7d4a48b09b24027351ccf7/1200.m3u8
 
 
-庞龙12月7日更新_2758,#genre#
+庞龙12月12日更新_2758,#genre#
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8#http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8#https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8#http://[2409:8087:2004:10::2786:474b]/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8?icpid=4&RTS=1639880648&from=1&hms_devid=221&vqe=3#http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8#http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8#,http://anren.live/HK/AQtR.m3u8#http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8#http://125.210.152.21:9120/live/FHZW.m3u8#http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+1号,https://pull-flv-f26.douyincdn.com/third/stream-112123030970041003.flv
 
 
