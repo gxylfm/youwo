@@ -1,4 +1,5 @@
 ❤️庞龙电视台,#genre#
+直播,http://1mcqzdqq.live2.danghongyun.com/live/hls/5415d3b093fa406ca6a1153c4587f266/9515054e0cb54f42ae2d574fb624b03a.m3u8
 玉林新闻,http://39.135.32.28:6610/PLTV/77777777/224/3221225838/index.m3u8?servicetype=1
 广西卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221226211/2/index.m3u8?fmt=ts2hls#http://39.135.138.60:18890/PLTV/88888910/224/3221225731/index.m3u8?fmt=ts2hls#http://mobilelive.gxtv.cn/live/nn_live1004/playlist.m3u8
 广西综艺,http://116.9.204.242:9901/tsfile/live/0125_1.m3u8#http://111.59.63.32:9901/tsfile/live/1004_1.m3u8
@@ -778,7 +779,7 @@ no1号2https://live.douyin.com/92627679182
 龙宫里的奇异动物,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3528163c6b7d4a48b09b24027351ccf7/1200.m3u8
 
 
-庞龙12月12日更新_2758,#genre#
+庞龙112.13日更新_2758,#genre#
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8#http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8#https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8#http://[2409:8087:2004:10::2786:474b]/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8?icpid=4&RTS=1639880648&from=1&hms_devid=221&vqe=3#http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8#http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8#,http://anren.live/HK/AQtR.m3u8#http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8#http://125.210.152.21:9120/live/FHZW.m3u8#http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 1号,https://pull-flv-f26.douyincdn.com/third/stream-112123030970041003.flv
 
