@@ -1,17 +1,10 @@
 {
-//网络地址 https://raw.iqiq.io/kjrzxu/TVBox/main/tvbox.json
-//网络地址 https://raw.fastgit.org/kjrzxu/tvbox/main/tvbox.json
-//配置地址 clan://localhost/TVBox/tvbox.json
-//数据接口 clan://TVBox/MaooXB/
-//iptv接口  clan://TVBox/iptv.txt
-
 //资源包
 "spider":"https://raw.fastgit.org/kjrzxu/TVBox/main/jar/tvbox.jar",
 //直播接口
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnRzLmNvbS9neHlsZm0veW91d28vbWFzdGVyL3poaWJvLnR4dA=="]}]}],
 //壁纸接口
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
-
 "sites": [
 {"key":"csp_Kunyu77","name":"庞龙影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP","name":"🏭厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
@@ -69,12 +62,10 @@
 {"key":"csp_xbb_Nike影视","name":"🍀Nike影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/kjrzxu/TVBox/main/json/Nike影视网.json"},
 {"key":"csp_xbb_金眼影视","name":"🍀金眼影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/kjrzxu/TVBox/main/json/金眼影视.json"},
 {"key":"csp_biubiu_um","name":"🍀UM影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/kjrzxu/TVBox/main/json/umkan.json"},
-//
 {"key":"csp_xbb_乐猪影视","name":"🍀乐猪影视📵","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/kjrzxu/TVBox/main/json/乐猪影视.json"},
 {"key":"csp_xbb_黑狐影视ns","name":"🍀黑狐影视(NS)📵","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/kjrzxu/TVBox/main/json/黑狐影视ns.json"},
 {"key":"csp_xbb_真不卡cerrd","name":"🍀真不卡cerrd(NS)📵","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/kjrzxu/TVBox/main/json/真不卡ns.json"},
 {"key":"csp_xbb_奇优影院ns","name":"🍀奇优影院(NS)📵","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/kjrzxu/TVBox/main/json/奇优影院ns.json"}, 
-
 {"key": "csp_xp_yinfans","name": "💥音范丝4K(300+)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.fastgit.org/kjrzxu/TVBox/main/json/yinfans.json"},
 {"key":"bdys","name":"💥哔嘀磁力(慎用)","type":3,"api":"csp_XPbd","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://raw.fastgit.org/kjrzxu/TVBox/main/json/bdys01.json","jar": "https://raw.fastgit.org/kjrzxu/TVBox/main/json/cili.jpg"},
 {"key":"csp_xp_naifei","name":"💢奈飞中文","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/kjrzxu/TVBox/main/json/naifei.json"},
@@ -114,15 +105,13 @@
 {"key":"csp_xp_mozhatu","name":"💢莫扎兔","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/kjrzxu/TVBox/main/json/mozhatu.json"},
 {"key":"csp_xp_yingba","name":"💢电影吧","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/kjrzxu/TVBox/main/json/yingba.json"},
 {"key":"csp_xp_dingzidy","name":"💢钉子电影","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/kjrzxu/TVBox/main/json/dingzidy.json"},
-//
 {"key":"csp_app_9E03","name": "🐌9E03(v2)","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"},
 {"key":"csp_app_gotka","name":"🐌速播影视(v2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mkk.gotka.top/api.php/v1.vod"},
 {"key":"csp_app_独优影视","name":"🐌独优影视(v2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.71:218/api.php/Chengcheng/vod/"},
 {"key":"csp_app_天天视频","name":"🐌天天视频","type":3,"api": "csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.qianju.cc/api.php/v1.vod"},
 {"key":"csp_app_群鑫影视","name":"🐌群鑫影视","type":3,"api": "csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.qunxinys.com/api.php/v1.vod"},
 {"key":"csp_app_MX影视","name":"🐌MX影视","type":3,"api": "csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mkk.gotka.top/api.php/v1.vod"},
-{"key":"csp_app_段友影视","name": "🐌段友影视2","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://shangjihuoke.com/api.php/tv.vod"},
-],
+{"key":"csp_app_段友影视","name": "🐌段友影视2","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://shangjihuoke.com/api.php/tv.vod"},],
 //解析接口
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
