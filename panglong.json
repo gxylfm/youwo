@@ -6,7 +6,7 @@
 //iptv接口  clan://TVBox/iptv.txt
 
 //资源包
-"spider":"https://raw.fastgit.org/kjrzxu/TVBox/main/jar/tvbox.jar;md5;3BBE25C7A4BC9DD927D24258686517E1",
+"spider":"https://raw.fastgit.org/kjrzxu/TVBox/main/jar/tvbox.jar",
 //直播接口
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnRzLmNvbS9neHlsZm0veW91d28vbWFzdGVyL3poaWJvLnR4dA=="]}]}],
 //壁纸接口
