@@ -32,7 +32,7 @@
       {"key": "Upso", "name": "云搜", "type": "3","api": "csp_Upso","searchable": "1","quickSearch": "1","playerType": 1,"filterable": "1","ext": "https://gitee.com/alanchaotang/TangTV/raw/master/jar/alitoken.json"},
       {"key":"Alips","name":"盘搜","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/alitoken.json"},
       {"key":"Zxzj","name":"在线","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"23a412dda32885ae2bcb97b956cd7ad4"},
-      {"key":"push_agent","name":"12月29日更新","type":"3","api":"csp_PushAgent","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"}
+      {"key":"push_agent","name":"12月30日更新","type":"3","api":"csp_PushAgent","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"}
     ],
   
     "lives": [{"group":"redirect","channels":[{"name": "redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnRzLmNvbS9neHlsZm0veW91d28vbWFzdGVyL3poaWJvLnR4dA=="]}]}],
