@@ -1,8 +1,7 @@
 {
   "sites": [
     {"key":"Kunyu77","name":"七七","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8b48a0834ee08e5e64977bc9fc8bc3e0"},
-    {"key":"upyunsou","name":"云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
-    {"key":"Gitcafe","name":"纸条","type":"3","api":"csp_Gitcafe","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"},
+   {"key":"csp_GitCafe","name":"📜SP┃小纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/alitoken.json"},
     {"key":"世界杯","name":"一起看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837"},
     {"key":"Tian","name":"天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392"},
     {"key":"Yanet","name":"鸭奶飞","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a369b1f623fe86605f1b029f0cf66349"},
@@ -10,7 +9,6 @@
     {"key":"Hei","name":"石榴","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45"},
     {"key":"Lgyy","name":"蓝光","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b2e573ff040fcd54b50475660ee1a7d1"},
     {"key":"Smdyy","name":"神马","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"16705ee9f4764be8499806f52d4bf1e7"},
-    {"key":"Ddys","name":"低端","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"1cc92323700909e7d46623bc85b958d6"},
     {"key":"Dm84","name":"动漫","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"572192a9fe2136041a58e7219a46fb2b"},
     {"key":"AppTT","name":"图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5"},
     {"key":"IKan","name":"爱看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"},
@@ -26,12 +24,15 @@
     {"key":"Lib","name":"Libvio","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"78d057e4d03e47cb62dce13d69b41d6f"},
     {"key":"Dy555","name":"555","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"f41992bd740145ed58cb212dc0876582"},
     {"key":"Xiaoh","name":"Xiaoh","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"0842c1d2a8534ec62fb3a3ed848851a7"},
+    {"key":"csp_Zxzj","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"Ddys","name":"低端","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"1cc92323700909e7d46623bc85b958d6","jar":"https://gitee.com/alanchaotang/new/raw/master/jar/custom_spider.txt"},
     {"key":"csp_Alist2","name":"小丫搜索","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://101.34.67.237/txt/json/alist.json"},  
-    {"key":"YiSo","name":"易搜","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"},
-    {"key":"AliPS","name":"盘搜","type":"3","api":"csp_AliPS","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"},
-    {"key":"Zhaozy","name":"资源","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"},
+   {"key":"YiSo","name":"😹易搜┃搜索","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt","jar":"https://gitee.com/alanchaotang/new/raw/master/jar/custom_spider.txt"},
+    {"key":"Zhaozy","name":"🐺找资源┃搜索","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
+    {"key":"Upyunso","name":"🌤云搜┃搜索","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
+    {"key":"Alips","name":"🔍盘搜┃搜索","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
     {"key":"Zxzj","name":"在线","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"23a412dda32885ae2bcb97b956cd7ad4"},
-    {"key":"push_agent","name":"PushAgent","type":"3","api":"csp_PushAgent","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"}
+    {"key":"push_agent","name":"12月27日更新","type":"3","api":"csp_PushAgent","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"}
   ],
 
   "lives": [{"group":"redirect","channels":[{"name": "redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnRzLmNvbS9neHlsZm0veW91d28vbWFzdGVyL3poaWJvLnR4dA=="]}]}],
