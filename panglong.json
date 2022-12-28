@@ -38,7 +38,7 @@
       {"key":"Alips","name":"盘搜","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/alitoken.json"},
       {"key":"Sp_本地","name":"本地视频","type": 3,"api": "csp_LocalFile","searchable": 0,"quickSearch": 0,"filterable": 0},
       {"key":"Sp_推送","name":"手动推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/token.txt"},
-      {"key":"push_agent","name":"🧧2023新年更新🧧","type":"3","api":"csp_PushAgent","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"}
+      {"key":"push_agent","name":"🧧2023新年快乐🧧","type":"3","api":"csp_PushAgent","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"}
     ],
   
     "lives": [{"group":"redirect","channels":[{"name": "redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnRzLmNvbS9neHlsZm0veW91d28vbWFzdGVyL3poaWJvLnR4dA=="]}]}],
