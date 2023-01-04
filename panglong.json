@@ -6,8 +6,8 @@
       {"key":"dr_百忙无果","name": "芒果视频","type": 3,"api":"http://101.34.67.237/libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext":"http://101.34.67.237/js/百忙无果.js"},
       {"key":"drpy_js_斗鱼直播","name":"斗鱼直播","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/斗鱼直播.js"},
       {"key":"drpy_js_虎牙直播","name":"虎牙直播","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/虎牙直播.js"},
-      {"key":"Sp_布雷","name":"布雷影视","type":3,"api":"BuLei","searchable":1,"quickSearch":1,"filterable":1},
-      {"key":"Sp_低端","name":"低端影视","type":3,"api":"csp_Ddrk","click":"ddys.tv;#vjsp>button","searchable":1,"quickSearch":1,"filterable":0},
+      {"key": "drpy_js_布雷影视", "name": "布雷影视[js]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/布雷影视.js" },
+      {"key": "drpy_js_ddys", "name": "低端影视[js]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/ddys.js"},
       {"key":"csp_GitCafe","name":"小纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/alitoken.json"},
       {"key":"世界杯","name":"一起看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837"},
       {"key":"Tian","name":"天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392"},
@@ -22,7 +22,7 @@
       {"key":"Czsapp","name":"厂长","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3"},
       {"key":"Kuaikan","name":"快看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"459b1cb892e317546676a2c9dcec2bff"},
       {"key":"Auete","name":"奥特","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b04b15448ad5bd4312f1fa1fb9aa9b1b"},
-      {"key":"Tbook","name":"听书网","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"d16d1517e9eaad9909cb35c55ba0b784"},
+      {"key": "drpy_js_海盗听书", "name": "海盗听书[js]", "type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/海盗听书.js", "playerType": "2"},
       {"key":"Bili","name":"哔哩","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"85b2986381a134ba3ebbaf25ae8138e7#https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"},
       {"key":"AList","name": "AList","type": "3","api":"csp_AList","searchable":"1","ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"},
       {"key":"Cokemv","name":"可乐","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b88de1329655cca1beba45aa9776de70"},
@@ -37,8 +37,7 @@
       {"key": "Upso", "name": "云搜", "type": "3","api": "csp_Upso","searchable": "1","quickSearch": "1","playerType": 1,"filterable": "1","ext": "https://gitee.com/alanchaotang/TangTV/raw/master/jar/alitoken.json"},
       {"key":"Alips","name":"盘搜","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/alitoken.json"},
       {"key":"Sp_本地","name":"本地视频","type": 3,"api": "csp_LocalFile","searchable": 0,"quickSearch": 0,"filterable": 0},
-      {"key":"Sp_推送","name":"手动推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/token.txt"},
-      {"key":"push_agent","name":"🧧2023新年快乐🧧","type":"3","api":"csp_PushAgent","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"}
+      {"key":"push_agent","name":"🧧2023新年快乐🧧","type":"3","api":"csp_PushAgent","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/alitoken.json"}
     ],
   
     "lives": [{"group":"redirect","channels":[{"name": "redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnRzLmNvbS9neHlsZm0veW91d28vbWFzdGVyL3poaWJvLnR4dA=="]}]}],
