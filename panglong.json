@@ -1,6 +1,6 @@
 {
     "sites": [
-      {"key":"Kunyu77","name":"七七","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8b48a0834ee08e5e64977bc9fc8bc3e0"},
+      {"key":"Kunyu77","name":"庞龙影视","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8b48a0834ee08e5e64977bc9fc8bc3e0"},
       {"key":"drpy_js_腾云驾雾","name" : "腾讯视频","type" : 3,"api" : "https://gaigai.anglesya.win/.js/drpy.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/腾云驾雾.js"},
       {"key":"dr_奇珍异兽","name": "爱奇视频","type": 3,"api":"http://101.34.67.237/libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext":"http://101.34.67.237/js/奇珍异兽.js"},
       {"key":"dr_百忙无果","name": "芒果视频","type": 3,"api":"http://101.34.67.237/libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext":"http://101.34.67.237/js/百忙无果.js"},
