@@ -1,14 +1,7 @@
 {
     "spider":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;e200bfe02aff07b4b4e789dbdb0d15aa",
-    "wallpaper": "https://picsum.photos/1280/720/?blur=5",
-    "lives":[
-    {
-    "name":"直播",
-    "type":0,
-    "url":"./zhibo.txt",
-    "epg":"https://epg.112114.xyz/?ch={name}&date={date}",
-    "logo":"https://epg.112114.xyz/logo/{name}.png"
-    }],
+    "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
+    "lives":[{"name":"直播","type":0,"url":"./zhibo.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
     "sites":[
     {"key": "Live", "name": "直播","type": 3,"api": "csp_Live","searchable": 0, "filterable": 0,"ext": "1000"},
     {"key":"Kunyu77","name":"七七影视","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8b48a0834ee08e5e64977bc9fc8bc3e0","jar":"./panglong.jar;md5;9c102c1c5f41c3d7753256665831c25f"},
