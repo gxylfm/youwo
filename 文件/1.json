@@ -6,7 +6,7 @@
         "url": "",
         "type": "app",     
          "desc": "app",
-        "show": false
+        "show":true
       },
       {
         "name": "少年歌行",
