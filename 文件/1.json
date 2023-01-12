@@ -1,0 +1,20 @@
+{
+    "data": [
+      {
+        "name": "软件说明",
+        "pic": "https://raw.githubusercontents.com/gxylfm/youwo/master/文件/未命名_副本.png",
+        "url": "",
+        "type": "app",     
+         "desc": "app",
+        "show": false
+      },
+      {
+        "name": "少年歌行",
+        "pic": "https://img2.doubanio.com/view/photo/m/public/p2885525651.webp",
+        "url": "",
+        "type": "search",     
+         "desc": "",
+        "show": true
+      }
+    ]
+  }
