@@ -351,6 +351,12 @@ CCTV精品记录,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/2
 贵州卫视,http://tt-live.bestvcdn.com.cn/live/program/live/gzwshd8m/8000000/mnf.m3u8
 海南卫视,http://tt-live.bestvcdn.com.cn/live/program/live/hainanwshd8m/8000000/mnf.m3u8
 
+💔音乐歌曲,#genre#
+刘子千-未来少年,https://ghproxy.com/https://raw.githubusercontent.com/gxylfm/youwo/master/文件/刘子千-未来少年.mp4
+刘子千-想,https://ghproxy.com/https://raw.githubusercontent.com/gxylfm/youwo/master/文件刘子千-想.mp4
+一生所爱,https://ghproxy.com/https://raw.githubusercontent.com/gxylfm/youwo/master/文件/一生所爱.mp4
+杀破狼,https://ghproxy.com/https://raw.githubusercontent.com/gxylfm/youwo/master/文件/杀破狼.mp4
+
 🦋动物世界,#genre#
 动物世界,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/71d7dce230b74c1b9e35b41e837ffc5f/1200.m3u8
 一片住着熊的森林1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2ac6789acc644b55a4df03445561c56b/1200.m3u8
