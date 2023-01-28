@@ -45,7 +45,7 @@
     {"key":"找資源","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"ext":"http://我不是.肥猫.love:63/token.php"},
     {"key":"push_agent","name":"🧧2023努力赚钱🧧","type":3,"api":"csp_Push","searchable":1,"filterable":0,"ext":"http://我不是.肥猫.love:63/token.php"}],
     
-    "parses"::[
+    "parses":[
     {"name":"Json轮询","type":2,"url":"Sequence"},
     {"name":"Json并发","type":2,"url":"Parallel"},
     {"name":"解析聚合","type":3,"url":"Demo"},
