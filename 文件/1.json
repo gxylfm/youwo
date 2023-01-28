@@ -6,7 +6,7 @@
         "url": "",
         "type": "app",     
          "desc": "app",
-        "show":true
+        "show":false
       },
       {
         "name": "少年歌行",
@@ -14,7 +14,7 @@
         "url": "",
         "type": "search",     
          "desc": "",
-        "show": true
+        "show": false
       }
     ]
   }
