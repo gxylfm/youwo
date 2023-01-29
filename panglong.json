@@ -46,12 +46,12 @@
     {"key":"push_agent","name":"🧧2023努力赚钱🧧","type":3,"api":"csp_Push","searchable":1,"filterable":0,"ext":"http://我不是.肥猫.love:63/token.php"}],
     
     "parses":[
+   {"name":"OK","type":0,"url":"https://okjx.cc/?url="},
+   {"name":"菜尼丝","type":0,"url":"https://jx.cainisi.cf/?v="},
    {"name":"Json聚合","type":3,"url":"Demo"},
    {"name":"Web聚合","type":3,"url":"Web"},
    {"name":"战狼","type":0,"url":"https://jx.zhanlangbu.com/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
    {"name":"PRAWIX","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
-   {"name":"菜尼丝","type":0,"url":"https://jx.cainisi.cf/?v="},
-   {"name":"OK","type":0,"url":"https://okjx.cc/?url="},
    {"name":"Q1解析","type":1,"url":"https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url=","header":{"User-Agent":"Mozilla/5.0"}},
    {"name":"Q1官解","type":1,"url":"https://parse.ikunfk.cc/parse/sign/20221230?url=","header":{"User-Agent":"Mozilla/5.0"}},
    {"name":"懒懒","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
