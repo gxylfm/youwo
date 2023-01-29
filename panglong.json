@@ -13,7 +13,7 @@
     {"key":"csp_apple","name":"苹果影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1"jar":"./肥猫.jar;md5;5b59562c6d0b7e9587982f976d14a452"},
     {"key":"csp_AppTT","name":"图图影视","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.248.66.107:9911","jar":"./肥猫.jar;md5;5b59562c6d0b7e9587982f976d14a452"},
     {"key":"csp_BuLei","name":"布雷影视","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"jar":"./肥猫.jar;md5;5b59562c6d0b7e9587982f976d14a452"},
-    {"key":"在线之家","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1"jar":"./肥猫.jar;md5;5b59562c6d0b7e9587982f976d14a452"}
+    {"key":"在线之家","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1"jar":"./肥猫.jar;md5;5b59562c6d0b7e9587982f976d14a452"},
     {"key":"csp_Alist2","name":"小丫搜索","type":3,"api":"http://101.34.67.237/libs/alist.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://101.34.67.237/txt/json/alist.json"},
     {"key":"AList","name":"AList","type":3,"api":"csp_AList","searchable":1,"filterable":1,"ext":"https://ghproxy.com/https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"},
     {"key":"哔哩","name":"哔哩哔哩","type":3,"api":"csp_Bili","searchable":1,"filterable":1,"ext":"https://ghproxy.com/https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"},
