@@ -8,7 +8,7 @@
     {"key":"teng","name":"腾讯","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./feimao.jar;md5;5b59562c6d0b7e9587982f976d14a452"},
     {"key":"MGT","name":"芒果","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1,"jar":"./feimao.jar;md5;5b59562c6d0b7e9587982f976d14a452"},
     {"key":"drpy_js_奇珍异兽","name":"爱奇艺","type":3,"api":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/奇珍异兽.js","jar":"./feimao.jar;md5;5b59562c6d0b7e9587982f976d14a452"},
-    {"key": "csp_SP360","name": "📺┃360┃官源","type": 3, "api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/xBPQ/360影视.json"},
+    {"key": "csp_SP360","name": "360","type": 3, "api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/xBPQ/360影视.json"},
      {"key":"csp_apple","name":"苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"jar":"./feimao.jar;md5;5b59562c6d0b7e9587982f976d14a452"},
     {"key":"csp_AppTT","name":"图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"110c922de7d69804467fb83d3bb664b5","jar":"./feimao.jar;md5;5b59562c6d0b7e9587982f976d14a452"},
     {"key":"csp_BuLei","name":"布雷影视","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"jar":"./feimao.jar;md5;5b59562c6d0b7e9587982f976d14a452"},
