@@ -27,7 +27,7 @@
     {"key":"易搜","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"ext":"http://我不是.肥猫.love:63/token.php"},
     {"key":"盤搜","name":"盘搜","type":3,"api":"csp_PanSou","searchable":1,"filterable":0,"ext":"http://我不是.肥猫.love:63/token.php"},
     {"key":"UP雲搜","name":"云搜","type":3,"api":"csp_UpYun","searchable":1,"filterable":0,"ext":"http://我不是.肥猫.love:63/token.php"},
-    {"key":"找資源","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"ext":"http://我不是.肥猫.love:63/token.php"},
+    {"key":"找資源","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"switchable":0,"ext":"http://我不是.肥猫.love:63/token.php$$$yingshi$$$abcd1234"},
     {"key":"push_agent","name":"🧧2023赚钱结婚🧧","type":3,"api":"csp_Push","searchable":1,"filterable":0,"ext":"http://我不是.肥猫.love:63/token.php"}],
    "parses":[
 {"name":"庞龙","type":0,"url": "https://jx.xmflv.com/?url="},
