@@ -1,4 +1,14 @@
 ❤️庞龙电视,#genre#
+动物星球,http://pull-l3-cny.douyincdn.com/third/stream-eac374df3c06e8985d587224a056f483.m3u8
+动物星球,http://www.yshmzmc.top/gtjm.php?id=live1004
+动物星球,http://208.115.225.174:14192
+动物星球,http://iptv12k.com:35461/live/test167/12345/1233.m3u8
+动物星球,p8p://45.92.126.18:19706/60440362000e75bc09a007eeaa0519c7
+动物星球,p8p://860969650:9906/8df6a02edb7946eebae8115ab6fd8ec7
+动物星球,p8p://860969650:9906/8df6a02edb7946eebae8115ab6fd8ec7
+动物星球,p8p://fccs.123178.top:9906/60440362000e75bc09a007eeaa0519c7.ts
+动物星球,http://iptv12k.com:35461/live/8032022060101/452381/1233.m3u8
+动物星球,http://114.34.191.36:8512/.m3u8
 玉林新闻,http://39.135.32.28:6610/PLTV/77777777/224/3221225838/index.m3u8?servicetype=1
 广西卫视,http://tt-live.bestvcdn.com.cn/live/program/live/gxwshd8m/8000000/mnf.m3u8
 广西卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221226211/2/index.m3u8?fmt=ts2hls
@@ -161,13 +171,23 @@ CCTV4K,http://tt-live.bestvcdn.com.cn/live/program/live/cctv4k/15000000/mnf.m3u8
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8 
 
 💖记录频道,#genre#
+动物星球,http://pull-l3-cny.douyincdn.com/third/stream-eac374df3c06e8985d587224a056f483.m3u8
+动物星球,http://www.yshmzmc.top/gtjm.php?id=live1004
+动物星球,http://208.115.225.174:14192
+动物星球,http://iptv12k.com:35461/live/test167/12345/1233.m3u8
+动物星球,p8p://45.92.126.18:19706/60440362000e75bc09a007eeaa0519c7
+动物星球,p8p://860969650:9906/8df6a02edb7946eebae8115ab6fd8ec7
+动物星球,p8p://860969650:9906/8df6a02edb7946eebae8115ab6fd8ec7
+动物星球,p8p://fccs.123178.top:9906/60440362000e75bc09a007eeaa0519c7.ts
+动物星球,http://iptv12k.com:35461/live/8032022060101/452381/1233.m3u8
+动物星球,http://114.34.191.36:8512/.m3u8
+动物星球,http://198.16.64.10:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
 动物世界,http://txtest-xp2p.p2p.huya.com/src/src/1199589619721-1199589619721-5556588757806743552-2399179362898-10057-A-0-1.xs
 CCTV精品记录,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/1.m3u8
 CCTV精品记录,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/1.m3u8
 全纪实,http://tt-live.bestvcdn.com.cn/live/program/live/qjshd8m/8000000/mnf.m3u8
 求索纪录,http://111.40.196.9/0000000000001000/1/index.m3u8?Contentid=6000000002000032052&livemode=1&stbId=3&channel-id=wasusyt
 求索纪录,http://111.40.196.9/0000000000001001/1/index.m3u8?Contentid=6000000002000032052&livemode=1&stbId=10&channel-id=wasusyt
-动物星球,http://198.16.64.10:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
 金鹰纪实,http://124.232.233.15:6610/000000001001/201600020008/1400.m3u8?m3u8_level=2
 
 💚庞龙电台,#genre#
@@ -710,4 +730,4 @@ CCTV精品记录,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/2
 龙宫里的奇异动物,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3528163c6b7d4a48b09b24027351ccf7/1200.m3u8
 
 
-㊙️庞龙2023年1月13日日更新_2758,#genre#
+㊙️庞龙2023年2月31日日更新_2758,#genre#
