@@ -50,7 +50,7 @@
 { "name":"4","type": 0,"url": "http://211.99.98.226:7733/rx.php?url=", "header": { "User-Agent": "Mozilla/5.0"}},
 { "name":"5","type": 0,"url": "http://211.99.98.226:7733/200.php?url", "header": { "User-Agent": "Mozilla/5.0"}},
 { "name":"6","type": 0,"url": "http://211.99.98.226:7733/400.php?url=", "header": { "User-Agent": "Mozilla/5.0"}},
-{ "name":"6","type": 0,"url": "http://211.99.98.226:7733/analysis.php?url=", "header": { "User-Agent": "Mozilla/5.0"}},
+{ "name":"7","type": 0,"url": "http://211.99.98.226:7733/analysis.php?app=10000&account=hghg&password=2555454545&url=","header":{"User-Agent":"Mozilla/5.0"}},
 {"name": "男孩", "url": "https://json.3ayl.com/json/?id=3&url=","type":1},
 {"name":"4K","url":"https://jx.4kdv.com/?url=","showType":1}
  
