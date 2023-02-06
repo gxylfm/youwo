@@ -5,7 +5,7 @@
  "sites":[
  {"key": "Live", "name": "直播","type": 3,"api": "csp_Live","searchable": 0, "filterable": 0,"ext": "1000"},
  {"key":"csp_Kunyu77", "name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"./panda230203.jar;md5;EE39D6223759E1B9683EFD45D15F9134"},
- {"key":"csp_app_源头","name":"肥猫","type":1,"api":"http://i.肥猫.love:63/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"categories":["4K专区","动漫高清","电影","电视剧","综艺","动漫","哔哩哔哩","动作片","国产动漫"],"jar":"./panda230203.jar;md5;EE39D6223759E1B9683EFD45D15F9134"},
+ {"key":"csp_app_源头","name":"喵星","type":1,"api":"http://i.肥猫.love:63/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"categories":["4K专区","动漫高清","电影","电视剧","综艺","动漫","哔哩哔哩","动作片","国产动漫"],"jar":"./panda230203.jar;md5;EE39D6223759E1B9683EFD45D15F9134"},
  {"key":"csp_BuLei","name":"布雷","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"m3u8ads":"wan.51img1.com","jar":"./panda230203.jar;md5;EE39D6223759E1B9683EFD45D15F9134"},
  {"key":"Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./panda230203.jar;md5;EE39D6223759E1B9683EFD45D15F9134"},
  {"key":"csp_AppTT","name":"图图", "type":3,"api":"csp_AppTT2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.39.64.151:5566$$$Qks3NWg0dnRPbmlsV3JMdCNkMFZ0OHBJbjRJQXByY3I=$$$Y2hpV2g0dnRiU3pYUGdWWg==","jar":"./panda230203.jar;md5;EE39D6223759E1B9683EFD45D15F9134"},   
@@ -35,8 +35,8 @@
  {"key":"push_agent","name":"🧧2023赚钱结婚🧧","type":3,"api":"csp_Push","searchable":1,"filterable":0,"ext":"http://我不是.肥猫.love:63/token.php"}],
 "parses":[
  {"name":"庞龙","type":0,"url": "https://jx.xmflv.com/?url="},
- {"name":"喵星人1","type":1,"url":"http://jiexi.xn--9kq078cdn3a.cc/api/?key=GMp1H9mKRKVriBulRT&url=","header":{"User-Agent":"Mozilla/5.0"}},
- {"name":"喵星人2","type":1,"url":"https://json.xn--9kq078cdn3a.cc/api/?key=d3f73a7d6d366b864e522d60aa0703f1&url=", "header":{"User-Agent":"Mozilla/5.0"}},
+ {"name":"喵星1","type":1,"url":"http://jiexi.xn--9kq078cdn3a.cc/api/?key=GMp1H9mKRKVriBulRT&url=","header":{"User-Agent":"Mozilla/5.0"}},
+ {"name":"喵星2","type":1,"url":"https://json.xn--9kq078cdn3a.cc/api/?key=d3f73a7d6d366b864e522d60aa0703f1&url=", "header":{"User-Agent":"Mozilla/5.0"}},
  {"name":"幸福","type":0,"url": "https://player.lanhuatv.com/player/?url="},
  {"name":"联盟","type":0,"url": "https://app.gduan.com/player/?url="},
  {"name":"健康","type":0,"url": " https://jx1.idcdr.com/player/?url="},
